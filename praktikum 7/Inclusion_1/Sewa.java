@@ -1,3 +1,9 @@
+/*
+* Nama File         : Sewa.java
+* Tanggal pembuatan : 03/04/2023
+* Penulis           : Rhadiyyah Ariana Saraswati
+*/
+
 public class Sewa {
     public static void main(String[] args) {
         Vehicle kendaraan = new Vehicle();
