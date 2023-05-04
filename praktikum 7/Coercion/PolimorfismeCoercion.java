@@ -1,8 +1,7 @@
 /*
-* Nama File         : MLingkaran.java 
-* Tanggal pembuatan : 26/03/2023
+* Nama File         : PolimorfismeCoercion.java 
+* Tanggal pembuatan : 03/04/2023
 * Penulis           : Rhadiyyah Ariana Saraswati
-* Deskripsi         : Implementasi dari cara menghitung luas lingkaran
 */
 
 public class PolimorfismeCoercion {
