@@ -1,8 +1,8 @@
 /*
-* Nama File			: BangunDatarGeneric.java 
-* Tanggal Pembuatan : 17/05/2023
-* Penulis			: Rhadiyyah Ariana Saraswati
-* Deskripsi			: Kelas konstruksi generic untuk BangunDatar
+* Nama File		: BangunDatarGeneric.java 
+* Tanggal Pembuatan 	: 17/05/2023
+* Penulis		: Rhadiyyah Ariana Saraswati
+* Deskripsi		: Kelas konstruksi generic untuk BangunDatar
 */
 
 public class BangunDatarGeneric<T extends BangunDatar>{
