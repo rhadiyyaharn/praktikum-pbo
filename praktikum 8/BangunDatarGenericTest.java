@@ -1,8 +1,8 @@
 /*
-* Nama File			: BangunDatarGenericTest.java 
-* Tanggal Pembuatan : 17/05/2023
-* Penulis			: Rhadiyyah Ariana Saraswati
-* Deskripsi			: Main class untuk generic bangun datar
+* Nama File		: BangunDatarGenericTest.java 
+* Tanggal Pembuatan 	: 17/05/2023
+* Penulis		: Rhadiyyah Ariana Saraswati
+* Deskripsi		: Main class untuk generic bangun datar
 */
 
 public class BangunDatarGenericTest{
