@@ -1,8 +1,8 @@
 /**
-* Nama File			: Lingkaran.java 
-* Tanggal Pembuatan : 17/05/2023
-* Penulis			: Rhadiyyah Ariana Saraswati
-* Deskripsi			: Implementasi Lingkaran sebagai BangunDatar
+* Nama File		: Lingkaran.java 
+* Tanggal Pembuatan 	: 17/05/2023
+* Penulis		: Rhadiyyah Ariana Saraswati
+* Deskripsi		: Implementasi Lingkaran sebagai BangunDatar
 */
 
 public class Lingkaran extends BangunDatar{
