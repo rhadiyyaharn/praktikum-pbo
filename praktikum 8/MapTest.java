@@ -1,8 +1,8 @@
 /**
-* Nama File			: MapTest.java 
-* Tanggal Pembuatan : 17/05/2023
-* Penulis			: Rhadiyyah Ariana Saraswati
-* Deskripsi			: Program yang menggunakan Generic untuk pasangan Kunci-Nilai
+* Nama File		: MapTest.java 
+* Tanggal Pembuatan 	: 17/05/2023
+* Penulis		: Rhadiyyah Ariana Saraswati
+* Deskripsi		: Program yang menggunakan Generic untuk pasangan Kunci-Nilai
 */
 
 import java.util.*;
